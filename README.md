@@ -5,3 +5,6 @@ A team profile that generates an individual profile of all team members(Manager,
 
 ##Installation
 User should do a a git clone by copying the repo URL and paste in to the terminal and in the desired directory. Then download the required modules that are labeled dependencies in the package.json.
+
+##Usage
+User should do a npm i to install the correct modules found in the package.json, after the installation, you want to run npm test.
