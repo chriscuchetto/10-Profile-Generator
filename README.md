@@ -19,3 +19,4 @@ Should reading instructions for installation.
 Run node index.js in the terminal and answered the prompts and profile is generated for team member.
 
 ##Walkthrough Video
+https://watch.screencastify.com/v/ASUp0AJxsOsQDnk4FEqk 
