@@ -16,4 +16,4 @@ Although it's not shown, it will an MIT.
 Should reading instructions for installation.
 
 ##Tests
-Run npm test in the terminal and answered the prompts and profile is generated for team member.
+Run node index.js in the terminal and answered the prompts and profile is generated for team member.
