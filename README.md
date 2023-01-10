@@ -17,3 +17,5 @@ Should reading instructions for installation.
 
 ##Tests
 Run node index.js in the terminal and answered the prompts and profile is generated for team member.
+
+##Walkthrough Video
